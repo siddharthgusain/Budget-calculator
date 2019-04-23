@@ -1,3 +1,4 @@
 # Budgety
 
-## A simple budget app made using html,css and javascipt
+## A simple budget app to calculate your daily expenses and your monthly budget.
+# Tech Stack: HTML5,CSS3,JAVASCRIPT
